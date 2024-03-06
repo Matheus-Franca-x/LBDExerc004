@@ -1,7 +1,8 @@
 # LBDExerc004
 
 Exercícios:
-1) Fazer em SQL Server os seguintes algoritmos:
+
+Fazer em SQL Server os seguintes algoritmos:
 
 a) Dado um número inteiro. Calcule e mostre o seu fatorial. (Não usar entrada superior a 12)
 
